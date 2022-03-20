@@ -1,4 +1,5 @@
 # Surfs_Up
+![image_resize](https://user-images.githubusercontent.com/89308251/159183898-5756e80b-e2d6-49f0-8517-222267bfaddf.jpg)
 
 ## Challenge Overview
 
@@ -10,7 +11,7 @@ specifically, the temperature data for the months of June and December in Oahu.
 - Software:
    - Jupyter Notebooks 6.4.3
    - Python 3.8.8
-- Data sourced: 
+- Data source: 
    - [hawaii.sqlite](https://github.com/SYDsCorner/Surfs_Up/blob/main/hawaii.sqlite)
    
 ## Results
