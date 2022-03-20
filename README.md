@@ -10,7 +10,7 @@ specifically, the temperature data for the months of June and December in Oahu.
 ## Resources
 - Software:
    - Jupyter Notebooks 6.4.3
-   - Python 3.8.8
+      - Python 3.8.8
 - Data source: 
    - [hawaii.sqlite](https://github.com/SYDsCorner/Surfs_Up/blob/main/hawaii.sqlite)
    
